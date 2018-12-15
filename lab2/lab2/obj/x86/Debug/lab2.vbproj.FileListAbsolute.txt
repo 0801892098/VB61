@@ -1,0 +1,9 @@
+D:\VB61\lab2\lab2\bin\Debug\lab2.exe
+D:\VB61\lab2\lab2\bin\Debug\lab2.pdb
+D:\VB61\lab2\lab2\bin\Debug\lab2.xml
+D:\VB61\lab2\lab2\obj\x86\Debug\lab2.Form1.resources
+D:\VB61\lab2\lab2\obj\x86\Debug\lab2.Resources.resources
+D:\VB61\lab2\lab2\obj\x86\Debug\lab2.vbproj.GenerateResource.Cache
+D:\VB61\lab2\lab2\obj\x86\Debug\lab2.exe
+D:\VB61\lab2\lab2\obj\x86\Debug\lab2.xml
+D:\VB61\lab2\lab2\obj\x86\Debug\lab2.pdb
